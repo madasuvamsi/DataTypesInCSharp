@@ -16,6 +16,7 @@ namespace DataTypes
              */
             string name = "\"Test\"";
             Console.WriteLine(name);
+            Console.ReadKey();
         }
     }
 }
