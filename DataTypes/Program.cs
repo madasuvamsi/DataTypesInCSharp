@@ -10,8 +10,8 @@ namespace DataTypes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
-            Console.ReadKey();
+            string name = "Test";
+            Console.WriteLine(name);
         }
     }
 }
